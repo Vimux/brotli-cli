@@ -1,6 +1,6 @@
 # brotli CLI tool
 
-brotli CLI tool v1.0.3 for compression (or decompression) files. Compiled from [official sources](https://github.com/google/brotli/tree/master/c/tools) as a static executable for using on some embedded devices. Tested on Alpine Linux 3.7
+brotli CLI tool v1.0.4 for compression (or decompression) files. Compiled from [official sources](https://github.com/google/brotli/tree/master/c/tools) as a static executable for using on some embedded devices. Tested on Alpine Linux 3.7
 
 See **[Releases](https://github.com/Vimux/brotli-cli/releases)** for binaries.
 
